@@ -1,6 +1,6 @@
 # ToolsChallenge
 
-Este projeto é uma API de pagamentos desenvolvida em Java com Spring Boot, criada como parte de um desafio técnico. A API permite realizar operações de pagamento, estorno e consulta de transações.
+Este projeto é uma API de pagamentos desenvolvida em Java com Spring Boot. A API permite realizar operações de pagamento, estorno e consulta de transações.
 
 
 ## Funcionalidades
